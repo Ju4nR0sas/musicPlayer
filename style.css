@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: "Inter", sans-serif;
+}
+
+:root{
+    --backgroundOne: #C93B76;
+    --backgroundSecond: #212936;
+    --oneGray: #4D5562;
+    --secondGray: #121826a6;
+    --white: #E5E7EB;
+    --name: 1.6rem;
+    --author: 1.2rem;
+    --smallText: 1rem;
+}
+
