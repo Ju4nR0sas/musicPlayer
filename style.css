@@ -43,5 +43,22 @@ body{
 
 .card img{
     border-radius: 4rem;
-    padding: 2rem;
+    padding: 3rem;
 }
+
+.text{
+    text-align: center;
+}
+
+.text h1{
+    margin-top: -1rem;
+    margin-bottom: 0.4rem;
+    font-size: var(--name);
+    color: var(--white);
+}
+
+.text p{
+    font-size: var(--author);
+    color: var(--oneGray);
+}
+
